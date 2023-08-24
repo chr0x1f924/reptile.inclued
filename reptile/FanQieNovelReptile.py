@@ -5,7 +5,7 @@
 @Author  :   UnAbuse 
 '''
 
-from reptile.packet import *
+from .packet import *
 
 class FanQie:
     def __init__(self):

@@ -7,5 +7,5 @@
 
 from threading import Thread, Lock, current_thread
 import re
-from packet.meth import Meth
+from .meth import Meth
 from time import ctime

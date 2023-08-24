@@ -5,7 +5,7 @@
 @Author  :   UnAbuse 
 '''
 
-from FanqieNovelReptile import *
-from BiliBiliReptile import *
-from PixivelReptile import *
-from ProxyReptile import *
+from .FanQieNovelReptile import *
+from .BilibiliReptile import *
+from .PixivelReptile import *
+from .ProxyReptile import *

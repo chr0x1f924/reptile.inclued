@@ -5,7 +5,7 @@
 @Author  :   UnAbuse 
 '''
 
-from reptile.packet import Meth
+from .packet import Meth
 from time import ctime, sleep
 from threading import Thread, Lock, current_thread
 import re

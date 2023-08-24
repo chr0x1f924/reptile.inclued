@@ -5,7 +5,7 @@
 @Author  :   UnAbuse 
 '''
 
-from packet import *
+from .packet import *
 
 class Proxy(Meth):
 	def __init__(self):
